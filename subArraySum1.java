@@ -1,5 +1,5 @@
 import java.util.*;
-class subArraySum 
+class subArraySum1 
 {
 	public static void main(String[] args) 
 	{ 
